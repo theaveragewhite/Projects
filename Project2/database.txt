@@ -1,0 +1,6 @@
+Q: Fave color
+A: Blue
+Q: True
+A: T
+Q: False
+A: F
